@@ -4,12 +4,12 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'livechatt'
-  s.version          = '1.0.1+3'
+  s.version          = '1.0.1+4'
   s.summary          = 'A livechat package for embedding mobile chat window in your mobile application.'
   s.description      = <<-DESC
   A livechat package for embedding mobile chat window in your mobile application.
                        DESC
-  s.homepage         = 'http://github.com/mastersam07/livechat'
+  s.homepage         = 'http://github.com/alexverbitsky/livechat'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'mastersam' => 'admin@mastersam.tech' }
   s.source           = { :path => '.' }
